@@ -4,6 +4,6 @@ public class Main {
     }
 
     private static void lesson1 () {
-        System.out.println("Lesson1 is done");
+        System.out.println("Lesson1 is done!");
     }
 }
